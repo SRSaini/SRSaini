@@ -58,6 +58,7 @@ I'm a Senior Data Scientist at **XpressBees** — one of India's fastest-growing
 ### 🤝 LLM Providers Integrated
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4B483?style=flat-square)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 ![Sarvam AI](https://img.shields.io/badge/Sarvam_AI-138808?style=flat-square)
 
