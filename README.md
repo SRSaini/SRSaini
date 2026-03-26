@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Sitaram Saini
+# 👋 Hey, I'm Sita Ram Saini
 
 ### Senior Data Scientist · AI/ML Engineer · IIT Kharagpur M.Tech
 
