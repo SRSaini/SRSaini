@@ -142,7 +142,7 @@ I'm a Senior Data Scientist at **XpressBees** — one of India's fastest-growing
 
 <div align="center">
 
-![Sitaram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRSaini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2)
+![Sitaram's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SRSaini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRSaini&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
