@@ -65,7 +65,7 @@ I'm a Senior Data Scientist at **XpressBees** — one of India's fastest-growing
 
 ### 👁️ Observability & Eval
 ![LangSmith](https://img.shields.io/badge/LangSmith-Fetch-green)
-[![Opik Stars](https://shields.io)](https://github.com/comet-ml/opik)
+[![Opik Stars](https://shields.io](https://img.shields.io/badge/opik-comet-red?logo=comet-ml)
 
 ---
 
