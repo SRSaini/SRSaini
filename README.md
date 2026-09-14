@@ -36,6 +36,7 @@ I'm a Senior Data Scientist at **XpressBees** — one of India's fastest-growing
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 
 ### 👁️ Vision & VLMs
+![Anthropic/Sonnet](https://img.shields.io/badge/Anthropic-000000?logo=Anthropic&logoColor=white)
 ![InternVL](https://img.shields.io/badge/InternVL2.5%2F3-00B4D8?style=flat-square)
 ![Qwen-VL](https://img.shields.io/badge/Qwen3--VL-4CAF50?style=flat-square)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
@@ -61,6 +62,10 @@ I'm a Senior Data Scientist at **XpressBees** — one of India's fastest-growing
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 ![Sarvam AI](https://img.shields.io/badge/Sarvam_AI-138808?style=flat-square)
+
+### 👁️ Observability & Eval
+![LangSmith](https://img.shields.io/badge/LangSmith-Fetch-green)
+[![Opik Stars](https://shields.io)](https://github.com/comet-ml/opik)
 
 ---
 
